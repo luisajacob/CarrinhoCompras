@@ -1,0 +1,15 @@
+Z:\EC3\POO\AtividadeDiagnostica\AtividadeDiagnostica\bin\Debug\AtividadeDiagnostica.exe.config
+Z:\EC3\POO\AtividadeDiagnostica\AtividadeDiagnostica\bin\Debug\AtividadeDiagnostica.exe
+Z:\EC3\POO\AtividadeDiagnostica\AtividadeDiagnostica\bin\Debug\AtividadeDiagnostica.pdb
+Z:\EC3\POO\AtividadeDiagnostica\AtividadeDiagnostica\obj\Debug\AtividadeDiagnostica.csproj.AssemblyReference.cache
+Z:\EC3\POO\AtividadeDiagnostica\AtividadeDiagnostica\obj\Debug\AtividadeDiagnostica.csproj.CoreCompileInputs.cache
+Z:\EC3\POO\AtividadeDiagnostica\AtividadeDiagnostica\obj\Debug\AtividadeDiagnostica.exe
+Z:\EC3\POO\AtividadeDiagnostica\AtividadeDiagnostica\obj\Debug\AtividadeDiagnostica.pdb
+Z:\EC3\POO\AtividadeDiagnostica-LuisaJacobPovedaEC3\AtividadeDiagnostica\bin\Debug\AtividadeDiagnostica.exe.config
+Z:\EC3\POO\AtividadeDiagnostica-LuisaJacobPovedaEC3\AtividadeDiagnostica\bin\Debug\AtividadeDiagnostica.exe
+Z:\EC3\POO\AtividadeDiagnostica-LuisaJacobPovedaEC3\AtividadeDiagnostica\bin\Debug\AtividadeDiagnostica.pdb
+Z:\EC3\POO\AtividadeDiagnostica-LuisaJacobPovedaEC3\AtividadeDiagnostica\obj\Debug\AtividadeDiagnostica.csproj.AssemblyReference.cache
+Z:\EC3\POO\AtividadeDiagnostica-LuisaJacobPovedaEC3\AtividadeDiagnostica\obj\Debug\AtividadeDiagnostica.csproj.SuggestedBindingRedirects.cache
+Z:\EC3\POO\AtividadeDiagnostica-LuisaJacobPovedaEC3\AtividadeDiagnostica\obj\Debug\AtividadeDiagnostica.csproj.CoreCompileInputs.cache
+Z:\EC3\POO\AtividadeDiagnostica-LuisaJacobPovedaEC3\AtividadeDiagnostica\obj\Debug\AtividadeDiagnostica.exe
+Z:\EC3\POO\AtividadeDiagnostica-LuisaJacobPovedaEC3\AtividadeDiagnostica\obj\Debug\AtividadeDiagnostica.pdb
